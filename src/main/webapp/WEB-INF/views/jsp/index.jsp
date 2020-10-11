@@ -47,9 +47,7 @@
 
 
 	<hr>
-	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
-	</footer>
+
 </div>
 
 <spring:url value="/resources/core/css/hello.js" var="coreJs" />
