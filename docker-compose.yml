@@ -3,4 +3,4 @@ services:
   jenkins:
     image: jenkins-ci-cd-java-docker:latest
     ports: 
-    - 8080: 8080
+    - 9090: 8080
